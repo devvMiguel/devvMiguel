@@ -7,7 +7,7 @@
 
 
 
-  ![devvMiguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvMiguel&show_icons=true&theme=transparent)
+  ![devvMiguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvMiguel&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvMiguel&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
