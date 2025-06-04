@@ -1,11 +1,18 @@
-### Opaa! Me chamo Miguel Ferreira
+## Olá! Eu sou Miguel Ferreira 👋
 
+Sou um desenvolvedor em formação, atualmente participando do bootcamp da Generation Brasil (Turma JavaScript 07), onde estou estudando desenvolvimento **Full Stack** com foco em **TypeScript** e **Node.js**. Tenho um grande interesse pela área de **Back-End**, onde pretendo me especializar.
 
-                               
-- 🔭 Estou buscando uma oportunidade de estágio, com foco em Back-End
-- 🌱 Atualmente estudo Java.
+Já tive contato com Java e bancos de dados relacionais em projetos anteriores, mas ainda estou ganhando experiência prática com essas tecnologias.
 
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior** ou **Estagiário**, com muita vontade de aprender, crescer e contribuir com projetos reais.
 
+### 🚀 Tecnologias em aprendizado
+
+- **Linguagens:** TypeScript, JavaScript
+- **Back-End:** Node.js
+- **Front-End:** React, HTML, CSS
+- **Banco de Dados:** Conhecimento introdutório.
+- **Outros:** Git, GitHub, VSCode
 
   ![devvMiguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvMiguel&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvMiguel&exclude_repo=github-readme-stats,anuraghazra.github.io)
@@ -17,6 +24,9 @@
 </div>
 
 ##
+
+### 📫 Contato
+
 
 <div>
   <a href="https://www.linkedin.com/in/miguel-ferreira-aa6bab292" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
