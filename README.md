@@ -9,7 +9,7 @@
 
 ---
 
-## 🧝‍♂️ Sobre Mim
+## About Me
 
 Me chamo Miguel, sou desenvolvedor **Full Stack**, apaixonado por tecnologia, criatividade e desafios que me tirem da zona de conforto — como treinar um Fúria da Noite pela primeira vez.  
 Atualmente venho criando projetos próprios como o [Blog Pessoal](https://blog-pessoal-mmxr.onrender.com) e continuo me aprimorando com novas tecnologias do universo da programação. 🛠️
